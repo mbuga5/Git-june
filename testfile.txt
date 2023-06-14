@@ -10,3 +10,7 @@ This is another commit from local.
 revert 2
 
 This revert
+
+
+
+im just comparing the text

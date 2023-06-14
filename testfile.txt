@@ -18,4 +18,8 @@ This revert
 
 
 im just comparing the text
+<<<<<<< Updated upstream
 stashing with cange
+=======
+testing stash
+>>>>>>> Stashed changes
